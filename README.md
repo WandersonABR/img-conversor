@@ -8,18 +8,23 @@ Binarizar imagens (preto e branco): Transforma a imagem em tons de cinza em uma 
 
 Funcionalidades
 Recebe uma imagem colorida de entrada.
+
 Gera duas imagens:
 Em tons de cinza: Salva como img_cinza.jpg.
 Binarizada: Salva como img_pb.jpg.
+
 Pré-requisitos
 Python 3.7 ou superior.
 Biblioteca Pillow instalada (pip install pillow).
+
 Como usar
 Coloque a imagem que deseja processar no mesmo diretório do script e renomeie-a para fotoTeste.jpg.
 Execute o script.
+
 Verifique os arquivos gerados:
 img_cinza.jpg: Imagem em tons de cinza.
 img_pb.jpg: Imagem binarizada.
+
 Exemplo de Entrada
 Imagem colorida: fotoTeste.jpg.
 
